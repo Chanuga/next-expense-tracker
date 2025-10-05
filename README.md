@@ -47,3 +47,8 @@ once we create the models we should generate
 
 then we should migrate 
 * npx prisma migrate dev
+
+Authentication Setup with Clerk
+
+Install
+npm install @clerk/nextjs
